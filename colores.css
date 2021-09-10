@@ -1,0 +1,18 @@
+
+/*aca empieza el titulo*/
+#titulo {font-style: verdana; border-top-style: double;; text-align: center; color:white;  }
+
+/*color de preparacion e instrucciones*/
+
+.fondo {text-decoration: underline;white; color:white; background-color:	#006400}
+/*aca empieza el fondo de la pagina*/
+body
+{background-image: url(https://www.privatedaddy.com/get?task_guid=4288f8f2-f1d9-469b-ae4d-57627c50f0b5);
+  background-position: center;
+background-size: auto;
+background-repeat: repeat;
+}
+/*aca termina el fondo de la pagina*/
+/*color lista ul*/ .hola {font-size: 140%; color: white; }
+
+/*color lista ol*/ .chau {font-size: 140%; color: white; }
